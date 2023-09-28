@@ -1,1 +1,10 @@
-.metadata/
+# Para el proyecto Angular
+Frontend/node_modules/
+Frontend/dist/
+
+# Para Eclipse
+Backend/.classpath
+Backend/.project
+Backend/.settings/
+Backend/.metadata/
+Backend/bin/
